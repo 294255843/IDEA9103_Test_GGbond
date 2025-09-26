@@ -1,2 +1,4 @@
 # IDEA9103_Test_GGbond
-Class assignment
+My dirst repository for IDEA9103.
+
+111
