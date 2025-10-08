@@ -3,7 +3,7 @@
 # Quiz 8 — Imaging & Coding Techniques
 
 ## Part 1 — Imaging Technique Inspiration (≤100 words)
-Inspired by *Spider-Man: Into the Spider-Verse*, I aim for a hybrid 3D-to-2D comic look: quantized toon lighting, bold screen-space outlines, and RGB halftone dots, with occasional “animate on twos” cadence for graphic rhythm. This keeps 3D pipeline efficiency while achieving a hand-drawn aesthetic that supports readable silhouettes and strong color separation across screens. I’ll follow this breakdown for palette, outline strategy, and post-processing choices: https://www.postud.io/blog/spider-verse-breakdown/?utm_source=chatgpt.com
+Inspired by *Spider-Man: Into the Spider-Verse*, I aim for a hybrid 3D-to-2D comic look: quantized toon lighting, bold screen-space outlines, and RGB halftone dots, with occasional “animate on twos” cadence for graphic rhythm. This keeps 3D pipeline efficiency while achieving a hand-drawn aesthetic that supports readable silhouettes and strong color separation across screens. I’ll follow this breakdown for palette, outline strategy, and post-processing choices: https://www.postud.io/blog/spider-verse-breakdown/
 
 **Reference Stills**
 
