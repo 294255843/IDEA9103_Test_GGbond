@@ -28,5 +28,6 @@ Use Three.js EffectComposer to add an RGB Halftone (noise-based dot) pass in pos
 
 **Technique Screenshot**
 
-![RGB Halftone demo](images/tech_demo.jpg)
+![RGB Halftone demo](images/tech_demo1.jpg)
+![RGB Halftone demo](images/tech_demo2.jpg)
 
